@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.name        = 'synergy_default_theme'
   s.version     = '1.0.2'
   s.summary     = 'Default theme for Synergy'
-  s.description = 'Тема по умолчанию для платформы электронной коммерции Synergy, основанной на Spree'
+  s.description = 'Default theme for Synergy ecommerce platform based on Spree'
   s.required_ruby_version = '>= 1.8.7'
 
   s.author            = 'Service & Consulting'
